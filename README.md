@@ -26,22 +26,27 @@ Construir um site informativo apresentando:
 
 ## 📁 Estrutura de Pastas
 
+```
 projeto/
-│ index.html
+│
+├── index.html
 │
 ├── html/
-│   ├── sobre.html
-│   ├── formacao.html
-│   ├── disciplinas.html
-│   └── contato.html
+│    ├── sobre.html
+│    ├── formacao.html
+│    ├── disciplinas.html
+│    └── contato.html
 │
 ├── css/
-│   └── style.css
+│    └── style.css
 │
 ├── img/
-│   └── servidor.jpg
+│    └── (imagens utilizadas no site)
 │
 └── docs/
+     └── (currículo em PDF do servidor)
+
+```
 
 
 ## 🛠️ Tecnologias Utilizadas
