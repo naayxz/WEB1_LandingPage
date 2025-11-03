@@ -42,7 +42,7 @@ projeto/
 │   └── servidor.jpg
 │
 └── docs/
----
+
 
 ## 🛠️ Tecnologias Utilizadas
 | Tecnologia | Função |
