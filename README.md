@@ -93,10 +93,10 @@ projeto/
 
 ## 👨‍💻 Desenvolvedora
 Projeto desenvolvido por:  
-- *Ana Naylane Sousa Magalhães *  
+- **Ana Naylane Sousa Magalhães**  
 
-Disciplina: *Desenvolvimento Web I*  
-Professor: *Thomaz Maia*  
+Disciplina: **Desenvolvimento Web I**  
+Professor: **Thomaz Maia**
 IFCE - Campus Maranguape  
 
 ---
@@ -105,4 +105,4 @@ IFCE - Campus Maranguape
 Este projeto é apenas para fins educacionais.
 
 ---
-└── curriculo.pdf
+
