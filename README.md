@@ -19,8 +19,8 @@ Construir um site informativo apresentando:
 ---
 
 ## 🧑 Servidor Escolhido
-*Nome do Servidor:* [Robson da Silva Siqueira]  
-*Cargo / Função:* [Professor e Diretor Do IFCE Campus Maranguape]
+*Nome do Servidor:* Robson da Silva Siqueira
+*Cargo / Função:* Professor e Diretor Do IFCE Campus Maranguape
 
 ---
 
@@ -49,38 +49,47 @@ projeto/
 ```
 
 
-## 🛠️ Tecnologias Utilizadas
-| Tecnologia | Função |
-|-----------|--------|
-| *HTML5* | Estruturação das páginas |
-| *CSS3* | Estilização (cores, fontes, espaçamentos, bordas, posicionamento) |
 
 ---
 
-## 📌 Regras Seguidas
-- Uso de *tags semânticas*: header, section, article, nav, footer.
-- Página inicial com:
-  - Nome do servidor (<h1>)
-  - Biografia (<p>)
-  - Foto (<img>)
-  - Menu de navegação (<nav>)
-  - Botão para download do currículo
-- Subpáginas:
-  - sobre.html → Informações pessoais e hobbies
-  - formacao.html → Formação e experiência (usando ul e ol)
-  - disciplinas.html → Tabela de horários (para professores)
-  - contato.html → Formulário com input, select e textarea
-- *Sem usar* display: flex ou display: grid.
+## 📄 Descrição das Páginas
+
+| Página | Descrição |
+|--------|------------|
+| **index.html** | Página inicial com nome, foto, biografia e menu de navegação. |
+| **sobre.html** | Informações adicionais sobre o servidor: hobbies, interesses, fotos. |
+| **formacao.html** | Formações acadêmicas e experiências profissionais (listas). |
+| **disciplinas.html** | Tabela com as disciplinas ministradas (para professores). |
+| **contato.html** | Formulário de contato com campos de nome, e-mail, assunto e mensagem. |
+
+---
+
+## 🎨 Regras de Estilo (CSS)
+
+- Arquivo externo: `css/style.css`
+- Estilização com:
+  - Tipografia personalizada
+  - Cores e fundos customizados
+  - Uso do **Box Model** (margin, padding, border)
+  - Posicionamento usando `position: relative` e `absolute`
+
+---
+
+## 📚 Tecnologias Utilizadas
+
+- **HTML5**
+- **CSS3**
+- Estrutura semântica (`header`, `section`, `article`, `aside`, `footer`)
+- Publicação via **GitHub Pages**
 
 ---
 
 ## 🚀 Como Visualizar o Projeto
-Você pode abrir o arquivo index.html diretamente no navegador  
-ou acessar via *GitHub Pages* :
 
-🔗 *Link do GitHub Pages:* [Adicionar aqui depois]
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/usuario/nome-do-repositorio.git
 
----
 
 ## 👨‍💻 Desenvolvedora
 Projeto desenvolvido por:  
