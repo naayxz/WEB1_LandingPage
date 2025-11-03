@@ -1,6 +1,7 @@
-# 🌐 Landing Page - Servidor do IFCE Campus Maranguape
+# 🌐 Landing Page 
+Servidor do IFCE Campus Maranguape
 
-Este projeto consiste na criação de uma *Landing Page* para apresentar informações sobre um servidor do *IFCE - Campus Maranguape, desenvolvido como atividade da disciplina **Desenvolvimento Web I*.
+Este projeto consiste na criação de uma *Landing Page* para apresentar informações sobre um servidor do *IFCE - Campus Maranguape, desenvolvido como atividade da disciplina **Desenvolvimento Web I**.
 
 O objetivo é praticar os conceitos básicos de *HTML* e *CSS*, focando na estruturação semântica e estilização.
 
