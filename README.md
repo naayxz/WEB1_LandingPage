@@ -88,7 +88,7 @@ projeto/
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/usuario/nome-do-repositorio.git
+    https://naayxz.github.io/WEB1_LandingPage/
 
 
 ## 👨‍💻 Desenvolvedora
