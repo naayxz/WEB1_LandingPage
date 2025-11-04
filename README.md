@@ -88,7 +88,7 @@ projeto/
 Você pode abrir o arquivo index.html diretamente no navegador  
 ou acessar via *GitHub Pages* :
 
-🔗 *Link do GitHub Pages:* [Adicionar aqui depois]
+🔗 *Link do GitHub Pages:* [ https://naayxz.github.io/WEB1_LandingPage/]
 
 ---
 
