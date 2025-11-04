@@ -85,11 +85,12 @@ projeto/
 ---
 
 ## 🚀 Como Visualizar o Projeto
+Você pode abrir o arquivo index.html diretamente no navegador  
+ou acessar via *GitHub Pages* :
 
-1. Clone o repositório:
-   ```bash
-    https://naayxz.github.io/WEB1_LandingPage/
+🔗 *Link do GitHub Pages:* [Adicionar aqui depois]
 
+---
 
 ## 👨‍💻 Desenvolvedora
 Projeto desenvolvido por:  
